@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrisvangavin
+- 👋 Hi, I’m @chrisvangavin but call me Chris
 - 👀 I’m interested in coding, D365 and gardening
 - 🌱 I’m currently learning C# and SCM knowledge
 - 💞️ I’m looking to collaborate on actually nothing
